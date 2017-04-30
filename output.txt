@@ -1,0 +1,9 @@
+Transaction from admin admin to Bob Lee. Sum: 10000
+Transaction from admin admin to Boris Liskovets. Sum: 50000
+Transaction from Maria Bret to admin admin. Sum: 20000
+New user added: Artem Emeljanenko. It's score is: 1300000$
+User deleted: Artem Emeljanenko
+New user added: Jane Scofield. It's score is: 200000$
+Transaction from admin admin to Jane Scofield. Sum: 100000
+Transaction from Jane Scofield to admin admin. Sum: 100000
+User deleted: Jane Scofield
